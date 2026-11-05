@@ -5,8 +5,8 @@ Pharmacy Software for Lakeside Pharmacy, built step by step as a learning Projec
 Prints a welcome greeting and the Pharmacy's opening hours.
 
 ## How to run it
+From inside the 'carerx' folder;
 ...
-
 javac Hello.java
 java Hello
 ...
