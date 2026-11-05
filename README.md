@@ -16,3 +16,6 @@ java Hello
 
 ## Data
 ALl Patient data in this project is synthetic. No real patient information is ever used.
+
+## Status
+Phase 0: setting up the workshop.
