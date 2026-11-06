@@ -2,7 +2,7 @@
 Pharmacy Software for Lakeside Pharmacy, built step by step as a learning Project.
 
 ## What it does today
-Prints a welcome greeting and the Pharmacy's opening hours.
+Prints a welcome greeting and the Pharmacy's opening hours and the contact information
 
 ## How to run it
 From inside the 'carerx' folder;
