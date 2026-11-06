@@ -3,7 +3,7 @@
 public class PickupLabel {
     public static void main(String[] args) {
 
-        final String PHARMACY_NAMES = "LAKESIDE PHARMACY";
+        final String PHARMACY_NAME = "LAKESIDE PHARMACY";
         String patientName = "Maria Lopez";
         String drugName = "Amoxicillin";
         int strengthMg = 500;
@@ -11,7 +11,7 @@ public class PickupLabel {
         boolean isControlled = false;
 
         System.out.println("==============================");
-        System.out.println(PHARMACY_NAMES + " - PICKUP");
+        System.out.println(PHARMACY_NAME + " - PICKUP");
         System.out.println("Patient:  " + patientName);
         System.out.println("Drug:     " + drugName + " " + strengthMg + " mg");
         System.out.println("Refills left: " + refillsLeft);
