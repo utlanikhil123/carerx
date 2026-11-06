@@ -11,14 +11,14 @@ public class PickupLabel {
         System.out.println("Patient:  " + patientName);
 
         String drugName = "Amoxicillin";
-        double strength = 500;
-        System.out.println("Drug:    " + drugName + strength + "mg");
+        int strength = 500;
+        System.out.println("Drug:     " + drugName + " " + strength + " "  + "mg");
 
-        var refillsLeft = 2.5;
-        System.out.println("Refills left:  " + refillsLeft);
+        int refillsLeft = 2;
+        System.out.println("Refills left: " + refillsLeft);
 
         boolean controlledDrug = false;
-        System.out.println("Controlled Drug:  " + controlledDrug);
+        System.out.println("Controlled drug: " + controlledDrug);
 
         System.out.println("Ask the pharmacist if you have questions.");
         System.out.println("==============================");
